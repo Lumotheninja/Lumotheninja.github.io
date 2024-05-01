@@ -1,7 +1,7 @@
 baseURL: https://lumotheninja.github.io/
 languageCode: en-us
 title: lumotheninja
-theme: github.com/adityatelange/hugo-PaperMod
+theme: ["PaperMod"]
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
